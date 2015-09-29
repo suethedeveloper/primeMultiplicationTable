@@ -1,0 +1,15 @@
+{
+  "name": "prime_multiplication_table",
+  "version": "1.0.0",
+  "description": "prints out a multiplication table of the first 10 prime numbers",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec spec/test.js"
+  },
+  "author": "Sue Lucas",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3"
+  }
+}
